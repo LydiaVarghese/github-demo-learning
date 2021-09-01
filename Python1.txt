@@ -1,1 +1,2 @@
 Python is a very powerful programming language.
+Python is general purpose programming language.

@@ -1,1 +1,4 @@
-This is another sample text we follow
+This is another sample text we follow.
+
+
+This is to be noted...
